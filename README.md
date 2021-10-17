@@ -35,6 +35,7 @@
 * Choose the size according to your hunger.
 * Enjoy your pizza!
 
-![pizza] (https://image.freepik.com/vetores-gratis/fatia-voadora-de-ilustracao-em-vetor-pizza-dos-desenhos-animados-vetor-isolado-conceito-de-fast-food-estilo-flat-cartoon_138676-1934.jpg)
+![pizza](https://images.vexels.com/media/users/3/157222/isolated/lists/53798bcd7054e4feaef568a5cf49574b-adesivo-de-pizza.png)
+
 
 
