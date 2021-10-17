@@ -11,4 +11,19 @@
 6. Marque quantos quartos, banheiros e vagas você quer.
 * Toque no botão "filtrar" no fim da tela.
 
+# Como buscar imóveis no Quinto Andar
+
+* Abra o app.
+* Toque na lupa no topo da tela.
+* Escreva o bairro, rua ou cidade que quer morar.
+* Toque em filtrar e escolha as características do imóvel que procurar:
+1. Marque se quer comprar ou alugar.
+2. Escolha o valor do imóvel movendo a régua até o preço desejado.
+3. Marque quantos dormitórios e banheiros você quer.
+4. Escolha o tipo de imóvel selecionando as caixinhas.
+5. Escolha o valor do condomínio+IPTU escrevendo nos espaços ou movendo a régua.6. Marque quantas vagas você quer.
+* Para fazer uma busca mais detalhada, marque as outras caraterísticas desejadas.
+* Toque no botão "aplicar filtros" no fim da tela.
+
+
 
