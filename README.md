@@ -21,7 +21,9 @@
 2. Escolha o valor do imóvel movendo a régua até o preço desejado.
 3. Marque quantos dormitórios e banheiros você quer.
 4. Escolha o tipo de imóvel selecionando as caixinhas.
-5. Escolha o valor do condomínio+IPTU escrevendo nos espaços ou movendo a régua.6. Marque quantas vagas você quer.
+5. Escolha o valor do condomínio+IPTU escrevendo nos espaços ou movendo a régua.
+6. Marque quantas vagas você quer.
+
 * Para fazer uma busca mais detalhada, marque as outras caraterísticas desejadas.
 * Toque no botão "aplicar filtros" no fim da tela.
 
