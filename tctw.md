@@ -43,7 +43,7 @@ O curso tem 48 aulas, divididas em 8 módulos:
 
 ## 5.Investimento
 
-O valor do curso é de R$ 497,00. Para os que se inscrevem na lista de espera, o valor é R$ 397,00. 
+O valor do curso é de R$497,00. Para os que se inscrevem na lista de espera, o valor é R$397,00.
 
 ## 5.1.Formas de pagamento
 
